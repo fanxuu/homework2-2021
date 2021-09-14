@@ -1,6 +1,6 @@
 /*style the body*/
 body{
-    font-family: 'Times New Roman', serif;
+    font-family: 'Times New Roman', sans-serif;
     background: #000000;
     color: #ffffff;
 }
@@ -15,7 +15,7 @@ h1{
 /*Header 2 is 32px, with grey (#808080) drop shadow (use text-shadow property) that is offset 4px horizontally, 4px vertically, and 2px blur*/
 h2{
     font-size: 32px;
-    text-shadow: 4px 4px 2px #a5a5a5; 
+    text-shadow: 4px 4px 2px #808080; 
 }
 
 /*Paragraphs use 24px font and have 15px padding on the top only*/
